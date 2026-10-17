@@ -1,0 +1,5 @@
+config/database.local.php
+*.log
+.env
+storage/*
+!storage/.htaccess
