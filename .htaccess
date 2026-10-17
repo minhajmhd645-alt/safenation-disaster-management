@@ -1,0 +1,9 @@
+Options -Indexes
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(app|config|database|storage|tests|scripts|\.vscode)(/|$) - [F,L]
+RewriteRule \.(sql|md|ps1|code-workspace)$ - [F,L]
+</IfModule>
+<FilesMatch "^(router\.php|\.git.*)$">
+Require all denied
+</FilesMatch>
