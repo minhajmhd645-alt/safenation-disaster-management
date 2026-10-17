@@ -1,0 +1,252 @@
+[
+  {
+    "district": "Ampara",
+    "name": "District General Hospital Ampara",
+    "address": "Ampara, Ampara District, Sri Lanka",
+    "latitude": 7.2989499,
+    "longitude": 81.6892024,
+    "source_code": "healthsites:node:4741177121",
+    "source_url": "https://www.openstreetmap.org/node/4741177121",
+    "mapped_name": "District General Hospital Ampara"
+  },
+  {
+    "district": "Anuradhapura",
+    "name": "Teaching Hospital Anuradhapura",
+    "address": "Anuradhapura, Anuradhapura District, Sri Lanka",
+    "latitude": 8.3257683,
+    "longitude": 80.4133858,
+    "source_code": "healthsites:way:102371565",
+    "source_url": "https://www.openstreetmap.org/way/102371565",
+    "mapped_name": "Anuradhapura Teaching Hospital"
+  },
+  {
+    "district": "Badulla",
+    "name": "Teaching Hospital Badulla",
+    "address": "Bandarawela Road, Badulla, Badulla District, Sri Lanka",
+    "latitude": 6.9916586,
+    "longitude": 81.0520165,
+    "source_code": "healthsites:way:1229701727",
+    "source_url": "https://www.openstreetmap.org/way/1229701727",
+    "mapped_name": "Provincial General Hospital"
+  },
+  {
+    "district": "Batticaloa",
+    "name": "Teaching Hospital Batticaloa",
+    "address": "Hospital Road, Batticaloa, Batticaloa District, Sri Lanka",
+    "latitude": 7.7075124,
+    "longitude": 81.6905875,
+    "source_code": "healthsites:way:232761550",
+    "source_url": "https://www.openstreetmap.org/way/232761550",
+    "mapped_name": "Batticaloa Teaching Hospital"
+  },
+  {
+    "district": "Colombo",
+    "name": "National Hospital of Sri Lanka",
+    "address": "Colombo, Colombo District, Sri Lanka",
+    "latitude": 6.9183968,
+    "longitude": 79.8681975,
+    "source_code": "healthsites:way:355252669",
+    "source_url": "https://www.openstreetmap.org/way/355252669",
+    "mapped_name": "National Hospital of Sri Lanka"
+  },
+  {
+    "district": "Galle",
+    "name": "National Hospital Galle (Karapitiya)",
+    "address": "Karapitiya, Galle, Galle District, Sri Lanka",
+    "latitude": 6.0665677,
+    "longitude": 80.225809,
+    "source_code": "healthsites:way:151406006",
+    "source_url": "https://www.openstreetmap.org/way/151406006",
+    "mapped_name": "Karapitiya Teaching Hospital"
+  },
+  {
+    "district": "Gampaha",
+    "name": "District General Hospital Gampaha",
+    "address": "Gampaha, Gampaha District, Sri Lanka",
+    "latitude": 7.0913115,
+    "longitude": 80.0010683,
+    "source_code": "healthsites:way:204765569",
+    "source_url": "https://www.openstreetmap.org/way/204765569",
+    "mapped_name": "Gamapaha General Hospital"
+  },
+  {
+    "district": "Hambantota",
+    "name": "District General Hospital Hambantota",
+    "address": "Hambantota, Hambantota District, Sri Lanka",
+    "latitude": 6.1564964,
+    "longitude": 81.1098087,
+    "source_code": "healthsites:way:539159086",
+    "source_url": "https://www.openstreetmap.org/way/539159086",
+    "mapped_name": "District General Hospital Hambantota"
+  },
+  {
+    "district": "Jaffna",
+    "name": "Teaching Hospital Jaffna",
+    "address": "Hospital Road, Jaffna, Jaffna District, Sri Lanka",
+    "latitude": 9.6664322,
+    "longitude": 80.0127075,
+    "source_code": "healthsites:node:5185617923",
+    "source_url": "https://www.openstreetmap.org/node/5185617923",
+    "mapped_name": "Jaffna Teaching Hospital"
+  },
+  {
+    "district": "Kalutara",
+    "name": "Teaching Hospital Kalutara",
+    "address": "Nagoda, Kalutara, Kalutara District, Sri Lanka",
+    "latitude": 6.5630625,
+    "longitude": 79.9852435,
+    "source_code": "healthsites:node:1823709276",
+    "source_url": "https://www.openstreetmap.org/node/1823709276",
+    "mapped_name": "Teaching Hospital Kalutara"
+  },
+  {
+    "district": "Kandy",
+    "name": "National Hospital Kandy",
+    "address": "William Gopallawa Mawatha, Kandy, Kandy District, Sri Lanka",
+    "latitude": 7.2864399,
+    "longitude": 80.6316756,
+    "source_code": "healthsites:way:572962990",
+    "source_url": "https://www.openstreetmap.org/way/572962990",
+    "mapped_name": "The National Hospital Kandy"
+  },
+  {
+    "district": "Kegalle",
+    "name": "District General Hospital Kegalle",
+    "address": "Kegalle, Kegalle District, Sri Lanka",
+    "latitude": 7.2474985,
+    "longitude": 80.345705,
+    "source_code": "healthsites:node:3220016706",
+    "source_url": "https://www.openstreetmap.org/node/3220016706",
+    "mapped_name": "Teaching Hospital Kegalle"
+  },
+  {
+    "district": "Kilinochchi",
+    "name": "District General Hospital Kilinochchi",
+    "address": "Kilinochchi, Kilinochchi District, Sri Lanka",
+    "latitude": 9.3727442,
+    "longitude": 80.4114281,
+    "source_code": "healthsites:node:2152832489",
+    "source_url": "https://www.openstreetmap.org/node/2152832489",
+    "mapped_name": "District General Hospital Killinochchi"
+  },
+  {
+    "district": "Kurunegala",
+    "name": "Teaching Hospital Kurunegala",
+    "address": "Kurunegala, Kurunegala District, Sri Lanka",
+    "latitude": 7.4790195,
+    "longitude": 80.3583528,
+    "source_code": "healthsites:node:11155256557",
+    "source_url": "https://www.openstreetmap.org/node/11155256557",
+    "mapped_name": "Teaching Hospital, Kurunegala"
+  },
+  {
+    "district": "Mannar",
+    "name": "District General Hospital Mannar",
+    "address": "Thalvupadu - Mannar Rd, Mannar, Mannar District, Sri Lanka",
+    "latitude": 8.9813545,
+    "longitude": 79.902882,
+    "source_code": "healthsites:node:3424999527",
+    "source_url": "https://www.openstreetmap.org/node/3424999527",
+    "mapped_name": "District General Hospital"
+  },
+  {
+    "district": "Matale",
+    "name": "District General Hospital Matale",
+    "address": "Matale, Matale District, Sri Lanka",
+    "latitude": 7.4619989,
+    "longitude": 80.6252338,
+    "source_code": "healthsites:way:495870313",
+    "source_url": "https://www.openstreetmap.org/way/495870313",
+    "mapped_name": "Matale Base Hospital"
+  },
+  {
+    "district": "Matara",
+    "name": "District General Hospital Matara",
+    "address": "Matara, Matara District, Sri Lanka",
+    "latitude": 5.9479329,
+    "longitude": 80.5497116,
+    "source_code": "healthsites:way:362364038",
+    "source_url": "https://www.openstreetmap.org/way/362364038",
+    "mapped_name": "Matara General Hospital (SP)"
+  },
+  {
+    "district": "Monaragala",
+    "name": "Divisional Hospital Buttala",
+    "address": "Colombo - Ratnapura - Wellawaya - Batticaloa Road, Buttala, Monaragala District, Sri Lanka",
+    "latitude": 6.7581389,
+    "longitude": 81.2397961,
+    "source_code": "healthsites:way:354253532",
+    "source_url": "https://www.openstreetmap.org/way/354253532",
+    "mapped_name": "Buttala Base Hospital"
+  },
+  {
+    "district": "Mullaitivu",
+    "name": "Divisional Hospital Oddusuddan",
+    "address": "Oddusuddan, Mullaitivu District, Sri Lanka",
+    "latitude": 9.1627819,
+    "longitude": 80.6604767,
+    "source_code": "healthsites:node:4124124130",
+    "source_url": "https://www.openstreetmap.org/node/4124124130",
+    "mapped_name": "Divisional Hospital Oddusuddan"
+  },
+  {
+    "district": "Nuwara Eliya",
+    "name": "District General Hospital Nuwara Eliya",
+    "address": "Nuwara Eliya, Nuwara Eliya District, Sri Lanka",
+    "latitude": 6.9741094,
+    "longitude": 80.7803117,
+    "source_code": "healthsites:node:873842128",
+    "source_url": "https://www.openstreetmap.org/node/873842128",
+    "mapped_name": "Nuwara Eliya General Hospital"
+  },
+  {
+    "district": "Polonnaruwa",
+    "name": "District General Hospital Polonnaruwa",
+    "address": "Polonnaruwa, Polonnaruwa District, Sri Lanka",
+    "latitude": 7.9432754,
+    "longitude": 81.0093775,
+    "source_code": "healthsites:way:276745101",
+    "source_url": "https://www.openstreetmap.org/way/276745101",
+    "mapped_name": "Polonnaruwa Hospital"
+  },
+  {
+    "district": "Puttalam",
+    "name": "District General Hospital Chilaw",
+    "address": "Chilaw, Puttalam District, Sri Lanka",
+    "latitude": 7.5719944,
+    "longitude": 79.7974227,
+    "source_code": "healthsites:way:593951422",
+    "source_url": "https://www.openstreetmap.org/way/593951422",
+    "mapped_name": "District General Hospital Chilaw"
+  },
+  {
+    "district": "Ratnapura",
+    "name": "Teaching Hospital Ratnapura",
+    "address": "Ratnapura, Ratnapura District, Sri Lanka",
+    "latitude": 6.6871447,
+    "longitude": 80.3924992,
+    "source_code": "healthsites:node:1994920168",
+    "source_url": "https://www.openstreetmap.org/node/1994920168",
+    "mapped_name": "Ratnapura Teaching Hospital"
+  },
+  {
+    "district": "Trincomalee",
+    "name": "District General Hospital Trincomalee",
+    "address": "Trincomalee, Trincomalee District, Sri Lanka",
+    "latitude": 8.5641426,
+    "longitude": 81.2396356,
+    "source_code": "healthsites:way:108344847",
+    "source_url": "https://www.openstreetmap.org/way/108344847",
+    "mapped_name": "Base General Hospital"
+  },
+  {
+    "district": "Vavuniya",
+    "name": "District General Hospital Vavuniya",
+    "address": "Vavuniya, Vavuniya District, Sri Lanka",
+    "latitude": 8.7618394,
+    "longitude": 80.4996628,
+    "source_code": "healthsites:way:699018543",
+    "source_url": "https://www.openstreetmap.org/way/699018543",
+    "mapped_name": "Vavuniya General Hospital"
+  }
+]

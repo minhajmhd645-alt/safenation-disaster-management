@@ -1,0 +1,102 @@
+[
+  {
+    "names": {
+      "en": "Police Emergency Hotline",
+      "si": "පොලිස් හදිසි ඇමතුම් අංකය",
+      "ta": "காவல்துறை அவசர உதவி எண்"
+    },
+    "numbers": [
+      "118",
+      "119"
+    ],
+    "icon": "shield"
+  },
+  {
+    "names": {
+      "en": "Ambulance / Fire & rescue",
+      "si": "ගිලන් රථ / ගිනි නිවීම සහ ගලවා ගැනීම",
+      "ta": "அம்புலன்ஸ் / தீயணைப்பு மற்றும் மீட்பு"
+    },
+    "numbers": [
+      "110"
+    ],
+    "icon": "facilities"
+  },
+  {
+    "names": {
+      "en": "Accident Service-General Hospital-Colombo",
+      "si": "හදිසි අනතුරු සේවාව-මහ රෝහල-කොළඹ",
+      "ta": "விபத்து சேவை-பொது மருத்துவமனை-கொழும்பு"
+    },
+    "numbers": [
+      "011-2691111"
+    ],
+    "icon": "facilities"
+  },
+  {
+    "names": {
+      "en": "Tourist Police",
+      "si": "සංචාරක පොලිසිය",
+      "ta": "சுற்றுலா காவல்துறை"
+    },
+    "numbers": [
+      "011-2421052"
+    ],
+    "icon": "shield"
+  },
+  {
+    "names": {
+      "en": "Police Emergency",
+      "si": "පොලිස් හදිසි සේවාව",
+      "ta": "காவல்துறை அவசர சேவை"
+    },
+    "numbers": [
+      "011-2433333"
+    ],
+    "icon": "shield"
+  },
+  {
+    "names": {
+      "en": "Government Information Center",
+      "si": "රාජ්‍ය තොරතුරු කේන්ද්‍රය",
+      "ta": "அரசாங்க தகவல் நிலையம்"
+    },
+    "numbers": [
+      "1919"
+    ],
+    "icon": "notifications"
+  },
+  {
+    "names": {
+      "en": "Report Crimes",
+      "si": "අපරාධ වාර්තා කිරීම",
+      "ta": "குற்றங்களைப் புகாரளித்தல்"
+    },
+    "numbers": [
+      "011-2691500"
+    ],
+    "icon": "reports"
+  },
+  {
+    "names": {
+      "en": "Emergency Police Mobile Squad",
+      "si": "හදිසි පොලිස් ජංගම කණ්ඩායම",
+      "ta": "அவசர காவல்துறை நடமாடும் பிரிவு"
+    },
+    "numbers": [
+      "011-5717171"
+    ],
+    "icon": "shield"
+  },
+  {
+    "names": {
+      "en": "Fire & Ambulance Service",
+      "si": "ගිනි නිවීම සහ ගිලන් රථ සේවාව",
+      "ta": "தீயணைப்பு மற்றும் அம்புலன்ஸ் சேவை"
+    },
+    "numbers": [
+      "011-2422222"
+    ],
+    "icon": "facilities"
+  }
+]
